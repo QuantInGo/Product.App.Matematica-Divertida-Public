@@ -1,4 +1,4 @@
-**Terms & Conditions**  
+# **Terms & Conditions**  
 
 These terms and conditions applies to the Matemática Divertida app (hereby referred to as "Application") for mobile devices that was created by Quantingo (hereby referred to as "Service Provider") as a Free service.
 
